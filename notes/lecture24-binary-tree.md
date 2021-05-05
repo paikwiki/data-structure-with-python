@@ -86,7 +86,7 @@ class Node:
       if self.right:
         self.right.inorder()
   def postorder(self):
-    if self != None: # LMR
+    if self != None: # LRM
       if self.left:
         self.left.postorder()
       if self.right:

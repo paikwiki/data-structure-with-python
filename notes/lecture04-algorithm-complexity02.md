@@ -2,7 +2,6 @@
 
 > 본 포스팅은 한국외대 컴퓨터공학부 신찬수 교수님의 "[자료구조 - Data Structures with Python](https://www.youtube.com/playlist?list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK)" 중 4강 "[알고리즘 시간 복잡도(time complexity)](https://youtube.com/watch?v=ysn9dLDNLEU)" 강의를 정리한 노트입니다.
 
-
 ## 알고리즘 시간 복잡도를 계산하는 방법
 
 1. 모든 입력에 대해 기본연산 횟수를 더한 후 평균(__현실적으로 불가능__)
@@ -75,9 +74,11 @@ algorithm sum2(A, n)
 | 2    | n - 2 |
 | n -1 | 1     |
 
-> 1 + 2 + ... + n = (n(n + 1) / 2) * 3
->
-> T(n) = ((3/2)n)(n+1) + 1
->      = (3/2)n^2 - (3/2)n + 1
+```txt
+1 + 2 + ... + n = (n(n + 1) / 2) * 3
+
+T(n) = ((3/2)n)(n+1) + 1
+     = (3/2)n^2 - (3/2)n + 1
+```
 
 `n`이 커지면 `n^2`에 비례해 수행시간이 커진다.
