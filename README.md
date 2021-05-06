@@ -46,7 +46,7 @@
 | 25 | [이진트리 - 이진탐색트리 정의와 탐색,삽입 연산](https://youtube.com/watch?v=Bhprzw_1kb0)       | [:memo: note](./notes/lecture25-binary-search-tree01.md) | 2021.05.05. |
 | 26 | [이진트리 - 이진탐색트리 삭제 연산](https://youtube.com/watch?v=VVhmgQIJCu8)                 | [:memo: note](./notes/lecture26-binary-search-tree02.md) | 2021.05.05. |
 | 27 | [균형이진탐색트리 - 정의와 회전](https://youtube.com/watch?v=Kuw0f3-E-Hw)                    | [:memo: note](./notes/lecture27-balanced-binary-search-tree01.md) | 2021.05.06. |
-| 28 | [균형이진탐색트리 - AVL 트리 정의](https://youtube.com/watch?v=dHHjrl6m5CE)                 | :memo: note(준비중) | 2021.05.06. |
+| 28 | [균형이진탐색트리 - AVL 트리 정의](https://youtube.com/watch?v=dHHjrl6m5CE)                 | [:memo: note](./notes/lecture28-balanced-binary-search-tree02.md) | 2021.05.06. |
 | 29 | [균형이진탐색트리 - AVL 삽입 연산](https://youtube.com/watch?v=KkgN2xAzmG8)                 | :memo: note(준비중) | 2021.05.06. |
 | 30 | [균형이진탐색트리 - AVL 트리 삭제 연산](https://youtube.com/watch?v=W3uPlSCzAZM)             | :memo: note(준비중) | 2021.05.06. |
 
